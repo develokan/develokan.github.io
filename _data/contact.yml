@@ -3,8 +3,12 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+  # icon: "fa-brands fa-x-twitter"
+
+- tistory: tistory
+  icon: "fas fa-pen-square"
+  url:  "https://develokan.tistory.com"
 
 - type: email
   icon: "fas fa-envelope"
